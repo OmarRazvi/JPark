@@ -1,0 +1,16 @@
+Species,Expected,Found,Breeding,Life Found a Way?,Stable Population
+Tyrannosaurs,2,2,False,True,True
+Maiasaurs,21,22,True,True,False
+Stegosaurs,4,4,False,True,True
+Triceratops,8,8,False,True,True
+Procompsognathids,49,65,True,True,False
+Othnielia,16,23,True,True,False
+Velociraptors,8,37,True,True,False
+Apatosaurs,17,17,False,True,True
+Hadrosaurs,11,11,False,True,True
+Dilophosaurs,7,7,False,True,True
+Pterosaurs,6,6,False,True,True
+Hypsilophodontids,33,34,True,True,False
+Euoplocephalids,16,16,False,True,True
+Styracosaurs,18,18,False,True,True
+Microceratops,22,22,False,True,True
